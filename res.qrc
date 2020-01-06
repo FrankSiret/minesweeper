@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/op">
+        <file>res/bomb.png</file>
+        <file alias="mine">res/bug.png</file>
+        <file alias="bugsSweeper">res/bugs.png</file>
+        <file>res/check_1.png</file>
+        <file>res/check_2.png</file>
+        <file alias="clock">res/clock-1.png</file>
+        <file alias="flag">res/flag.png</file>
+        <file>res/repeat-1.png</file>
+        <file alias="fondo">res/fondo.png</file>
+        <file alias="block">res/block.png</file>
+    </qresource>
+</RCC>
